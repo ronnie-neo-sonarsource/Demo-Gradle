@@ -14,8 +14,6 @@ sonar {
     properties {
         property 'sonar.projectName', 'Example of SonarScanner for Gradle Usage'
         property "sonar.projectKey", "Demo-Gradle"
-        property "sonar.sources", "src/main"
-        property "sonar.tests", "src/test"
     }
 }
 
