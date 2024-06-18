@@ -12,8 +12,8 @@ repositories {
 
 sonar {
     properties {
-        property 'sonar.projectName', 'Example of SonarScanner for Gradle Usage'
-        property "sonar.projectKey", "Demo-Gradle"
+        property 'sonar.projectName', 'Demo Gradle'
+        property "sonar.projectKey", "sonarron_Demo-Gradle_0953ad0f-8555-4f74-b5eb-640b31f08237"
     }
 }
 
